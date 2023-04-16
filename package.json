@@ -1,0 +1,15 @@
+{
+  "name": "web-personal-api",
+  "version": "0.0.1",
+  "description": "api de la web personal",
+  "main": "index.js",
+  "author": "sergio garcia ",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^5.2.0",
+    "mongoose": "^7.0.3"
+  }
+}
